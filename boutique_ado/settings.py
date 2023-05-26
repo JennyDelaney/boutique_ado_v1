@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-583zg0w*=p%m2)(85yy_o2j(zs_9$*_d7z1e_h8#p^c$aev*(l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutique-ado-pp5-walkthrough', '8000-jennydelaney-boutique-ad-bn29ysz9oy.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['boutique-ado-pp5-walkthrough.herokuapp.com',
+                 '8000-jennydelaney-boutique-ad-bn29ysz9oy.us2.codeanyapp.com']
 
 
 # Application definition
